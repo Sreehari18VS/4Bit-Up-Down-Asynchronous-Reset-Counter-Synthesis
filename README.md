@@ -64,16 +64,16 @@ used.
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 #### Synthesis RTL Schematic :
-<img width="1919" height="1079" alt="Screenshot 2025-09-27 103828" src="https://github.com/user-attachments/assets/9c6a60f5-ea54-4efe-995f-a4f0c0c197cd" />
+<img width="1321" height="919" alt="Screenshot 2025-09-27 153146" src="https://github.com/user-attachments/assets/80ff3569-b597-4a37-ae6f-228bb1466bfb" />
 
 #### Area report:
-<img width="1919" height="1076" alt="Screenshot 2025-09-27 104350" src="https://github.com/user-attachments/assets/4d155f32-133c-47df-8883-79bbccc81e25" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 153559" src="https://github.com/user-attachments/assets/458d7e7a-d94f-4bd1-b457-724978c8eb7e" />
 
 #### Power Report:
-<img width="1908" height="1041" alt="Screenshot 2025-09-27 104433" src="https://github.com/user-attachments/assets/76d3b4d7-6277-47ae-8292-528237496d2c" />
+<img width="1915" height="1079" alt="Screenshot 2025-09-27 153757" src="https://github.com/user-attachments/assets/57d54a98-2a84-44a8-8d31-da1bd37e6f0b" />
 
 #### Timing Report: 
-<img width="1919" height="1079" alt="Screenshot 2025-09-27 105044" src="https://github.com/user-attachments/assets/dd40a8fc-5b5f-4270-8648-a034e22055dd" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 154015" src="https://github.com/user-attachments/assets/ce02cf51-b173-45b9-b8a6-85d5161d9637" />
 
 #### Result: 
 
